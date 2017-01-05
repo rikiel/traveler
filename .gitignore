@@ -2,6 +2,7 @@
 Documents/
 build/
 bin/
+doc/
 precomputed/
 .ycm_extra_conf.pyc
 
