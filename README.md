@@ -1,5 +1,8 @@
 # traveler - Template-based RnA VisuaLization
 
+# See forked version
+Work on this project continues on [forked repository](https://github.com/davidhoksza/traveler_back).
+
 ## Requirements:
 - gcc with support of c++11
 
